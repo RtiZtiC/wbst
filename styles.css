@@ -1,0 +1,36 @@
+  body
+  {
+
+    background-color: #f8fab8;
+
+  }
+  hr
+  {
+    border-style: none ;
+    border-top-style: dotted;
+    border-color: #f76a8c;
+    border-width: 5px;
+    height: 0;
+    width: 20%;
+  }
+  h1
+  {
+    color: #af0069;
+    font-family: URW Chancery L, cursive;
+  }
+  h2
+  {
+    color: #af0069;
+  }
+  h3
+  {
+    color: #af0069;
+  }
+  h4
+  {
+    color: #af0069;
+  }
+  p
+  {
+    color: #11698e;
+  }
